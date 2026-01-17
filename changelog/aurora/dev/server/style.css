@@ -1,0 +1,413 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Inter, sans-serif;
+    margin: 0 auto;
+    background-color: #141416;
+    letter-spacing: 0.001rem;
+}
+
+main {
+    
+}
+
+footer {
+    height: 500px;
+    padding-left: 40px;
+}
+
+header {
+    display: block;
+    position: fixed;
+    background-color: rgba(20, 20, 22, 0.5);
+    top: 0;
+    height: 55px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    backdrop-filter: blur(20px);
+    z-index: 1000
+}
+
+header a {
+    color: white;
+    font-size: 15px;
+    transition: 0.3s
+}
+
+header a:hover {
+    color: #357ae4
+}
+
+header a:active {
+    color: #0045ad
+}
+
+header img {
+    height: 25px;
+    margin-top: 14.5px;
+    margin-left: 14.5px;
+    margin-right: 17px
+}
+
+footer img {
+    height: 40px;
+    margin-top: 40px;
+}
+
+p {
+    color: #FFF
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 80px;
+    color: #FFF;
+    margin-left: 60px;
+    margin-top: 40px
+}
+
+
+h2 {
+    font-weight: normal;
+    font-size: 30px;
+    color: #FFF;
+    margin-left: 60px;
+    width: 500px
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 60px;
+    color: #FFF
+}
+
+h4 {
+    color: #757575;
+    font-size: 20px
+}
+
+li {
+    color: #FFF;
+    font-size: 20px;
+    line-height: 30px;
+}
+footer h3 {
+    color: #757575;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 14px;
+}
+
+.vidcontainer {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%
+}
+
+.vid {
+    border: 0px;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%
+
+}
+
+.button {
+    background-color: rgb(26, 118, 255);
+    width: 170px;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    border-radius: 10px;
+    float: left;
+    margin-left: 10px;
+    user-select: none
+}
+
+.first_item {
+    margin-left: 60px
+}
+
+.button:hover {
+    background-color: rgb(74, 156, 255);
+}
+
+.button:active {
+    background-color: rgb(0, 74, 165);
+}
+
+.headerbutton {
+    float: right;
+    margin-right: 17px;
+    margin-left: 17px;
+    margin-top: 17px;
+    display: inline-block;
+    text-align: center
+}
+
+.footerbutton {
+    margin-top: 17px;
+    color: #FFF;
+    transition: 0.3s
+}
+
+.footerbutton:hover {
+    color: #357ae4
+}
+
+.bold {
+    font-weight: bold
+}
+
+.nomargin {
+    margin: 0
+}
+
+footer a {
+    text-decoration: none;
+}
+
+
+.lighttext {
+    font-weight: normal;
+    letter-spacing: -5px;
+}
+
+.pages {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px
+}
+
+.column {
+    flex-direction: column;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    width: 1300px;
+    margin-top: 55px
+}
+
+#guardesection {
+    width: 800px;
+    height: 300px;
+    background-color: red;
+    color: red;
+    display: block
+}
+
+#guarde {
+    height: 800px;
+    background-image: url(images/guardebackground.png);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 110px
+}
+
+#defender {
+    height: 800px;
+    background-image: url(images/dedefender.png);
+    margin-top: 0px;
+    padding-top: 55px
+}
+
+#sunset {
+    height: 800px;
+    background-image: url(images/sunset.png);
+    background-size: 100%;
+    margin-top: 0px;
+    padding-top: 55px
+}
+
+#trademark {
+    color: #151515;
+}
+
+#defselection {
+    background-image: url("images/dedefender.png");
+    padding-top: 150px;
+    padding-bottom: 150px
+}
+
+#guardemu1selection {
+    background-image: url("images/guardebackground.png");
+    padding-top: 150px;
+    padding-bottom: 150px
+}
+
+#defsection {
+    display: block;
+    border-radius: 10px;
+    width: 600px;
+    height: 450px;
+    background-color: rgba(20, 20, 22, 0.5);
+    margin: 0 auto;
+    backdrop-filter: blur(20px);
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3)
+}
+
+#deflogo {
+    display: block;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px
+}
+
+#defhead {
+    display: block;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#defp {
+    display: block;
+    font-weight: normal;
+    font-size: 15px;
+    color: #FFF;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 2s0px;
+    text-align: center;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#defdownload {
+    float: right;
+    margin-left: 5px
+}
+
+#defonline {
+    float: right;
+    margin-right: 5px;
+    margin-left: 0px
+}
+
+
+#defbuttdiv {
+    display: flex;
+    justify-content: center;
+    width: 600px
+}
+
+#computers {
+    height: 280px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+
+#guardeheader {
+    display: flex;
+    justify-self: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    width: 800px;
+    margin: none
+}
+
+#guardeunderhead {
+    display: flex;
+    justify-self: center;
+    text-align: center;
+    font-size: 23px;
+    width: 800px;
+    margin: none
+}
+
+/*These classes are borrowed from the old version of the from scratch website hosted at 192.168.1.26 at the DE HQ. We should look at re-doing this eventually.*/
+/*EDIT: We likely won't be using this code so it is commented out for now, but we'll be keeping it for now just in case.
+
+.header3 {
+    font-family: inter; 
+    margin-left: 40px; 
+    color: white; 
+    font-size: 40px; 
+    margin-top: 0px; 
+    margin-bottom: 30px;
+    text-align: center;
+    margin-bottom: 5px;  
+}
+
+.guardehead2 {
+    font-family: inter; 
+    margin-left: 40px; 
+    color: white; 
+    font-size: 24px; 
+    margin-top: 0px; 
+    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.sectionicon {
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 180px;
+    float: left
+}
+
+.sectiondisplay {
+    display: inline-block;
+    height: 220px
+                    
+}
+
+.tophead {
+    font-family: inter;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}    
+.bottomhead {
+    margin-top: 10px;
+    font-family: inter;
+    font-size: 16px;
+    color: rgba(136, 136, 136, 100);
+    width: 650px;
+    line-height: 30px;
+}
+
+
+.sectiontext {
+    float: right;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 150px
+
+    }   
+
+*/
