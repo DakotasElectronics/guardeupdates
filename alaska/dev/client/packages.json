@@ -1,0 +1,41 @@
+{
+  "base-files": {
+    "version": 260205
+  },
+  "bash": {
+    "version": 260105
+  },
+  "ubuntu-wallpapers": {
+    "version": 260105
+  },
+  "guarde-docs": {
+    "version": 259220
+  },
+  "guarde-adwgtk3": {
+    "version": 259206
+  },
+  "guarde-extensions": {
+    "version": 259006
+  },
+  "guarde-sounds": {
+    "version": 259206
+  },
+  "guarde-themes-grub": {
+    "version": 259206
+  },
+  "guarde-themes-plymouth": {
+    "version": 259305
+  },
+  "guarde-update-handler": {
+    "version": 260205
+  },
+  "gnome-user-docs": {
+    "version": 259220
+  },
+  "adwaita-icon-theme": {
+    "version": 259305
+  },
+  "zeta-handler": {
+    "version": 260105
+  }
+}
