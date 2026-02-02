@@ -1,6 +1,7 @@
 {
   "build": "260120",
   "packages": [
+    "base-files.deb",
     "guarde-bash.deb",
     "guarde-wallpapers.deb",
     "guarde-docs.deb",
