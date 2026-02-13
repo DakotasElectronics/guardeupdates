@@ -3,18 +3,17 @@
   "build": "260205",
   "packages": [
     "base-files.deb",
-    "guarde-bash.deb",
-    "guarde-wallpapers.deb",
+    "bash.deb",
+    "ubuntu-wallpapers.deb",
     "guarde-docs.deb",
     "guarde-adwgtk3.deb",
-    "guarde-docs.deb",
     "guarde-extensions.deb",
     "guarde-sounds.deb",
     "guarde-themes-grub.deb",
     "guarde-themes-plymouth.deb",
-    "guarde-upgrade.deb",
-    "gnome-docs.deb",
-    "adwaita-icons.deb",
+    "guarde-update-handler.deb",
+    "gnome-user-docs.deb",
+    "adwaita-icon-theme.deb",
     "zeta-handler.deb"
   ]
 }
