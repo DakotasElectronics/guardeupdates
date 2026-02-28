@@ -1,6 +1,6 @@
 {
   "base-files": {
-    "version": 260205
+    "version": 260305
   },
   "bash": {
     "version": 260105
@@ -27,7 +27,7 @@
     "version": 259305
   },
   "guarde-update-handler": {
-    "version": 260205
+    "version": 260305
   },
   "gnome-user-docs": {
     "version": 259220
@@ -37,5 +37,8 @@
   },
   "zeta-handler": {
     "version": 260105
+  }
+  "gver": {
+    "version": 260120
   }
 }
