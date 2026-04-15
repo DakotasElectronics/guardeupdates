@@ -15,6 +15,7 @@
     "gnome-user-docs.deb",
     "adwaita-icon-theme.deb",
     "zeta-handler.deb",
-    "gver.deb"
+    "gver.deb",
+    "plymouth-theme-spinner.deb",
   ]
 }
