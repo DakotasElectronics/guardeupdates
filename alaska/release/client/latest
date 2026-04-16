@@ -1,6 +1,5 @@
 {
-
-  "build": "260305",
+  "build": "260420",
   "packages": [
     "base-files.deb",
     "bash.deb",
@@ -15,6 +14,7 @@
     "gnome-user-docs.deb",
     "adwaita-icon-theme.deb",
     "zeta-handler.deb",
-    "gver.deb"
+    "gver.deb",
+    "plymouth-theme-spinner.deb"
   ]
 }
