@@ -1,44 +1,47 @@
 {
   "base-files": {
-    "version": 260305
+    "version": 260500
   },
   "bash": {
-    "version": 260105
+    "version": 260500
   },
   "ubuntu-wallpapers": {
-    "version": 260105
+    "version": 260500
   },
   "guarde-docs": {
-    "version": 259220
+    "version": 260500
   },
-  "guarde-adwgtk3": {
-    "version": 259206
+  "aura-theme": {
+    "version": 260500
   },
   "guarde-extensions": {
-    "version": 259006
+    "version": 260500
   },
   "guarde-sounds": {
-    "version": 259206
+    "version": 260500
   },
   "guarde-themes-grub": {
-    "version": 259206
+    "version": 260500
   },
   "guarde-themes-plymouth": {
-    "version": 259305
+    "version": 260500
   },
   "guarde-update-handler": {
-    "version": 260305
+    "version": 260500
   },
   "gnome-user-docs": {
-    "version": 259220
+    "version": 260500
   },
   "adwaita-icon-theme": {
-    "version": 259305
+    "version": 260500
   },
-  "zeta-handler": {
-    "version": 260105
-  }
+  "zeta": {
+    "version": 260500
+  },
   "gver": {
-    "version": 260120
+    "version": 260500
+  },
+  "plymouth-theme-spinner": {
+    "version": 260500
   }
 }
