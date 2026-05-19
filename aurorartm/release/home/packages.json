@@ -1,14 +1,11 @@
 {
   "base-files": {
-    "version": 260500
+    "version": 26050001
   },
   "bash": {
     "version": 260500
   },
   "ubuntu-wallpapers": {
-    "version": 260500
-  },
-  "guarde-docs": {
     "version": 260500
   },
   "aura-theme": {
@@ -27,13 +24,10 @@
     "version": 260500
   },
   "guarde-update-handler": {
-    "version": 260500
-  },
-  "gnome-user-docs": {
-    "version": 260500
+    "version": 26050001
   },
   "adwaita-icon-theme": {
-    "version": 260500
+    "version": 26050001
   },
   "zeta": {
     "version": 260500
