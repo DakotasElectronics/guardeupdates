@@ -1,6 +1,6 @@
 {
   "base-files": {
-    "version": 26050001
+    "version": 26050002
   },
   "bash": {
     "version": 260500
@@ -9,7 +9,7 @@
     "version": 260500
   },
   "aura-theme": {
-    "version": 260500
+    "version": 26050002
   },
   "guarde-extensions": {
     "version": 260500
